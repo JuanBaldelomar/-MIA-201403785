@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1470688901 source:/home/juan/Documents/TAREAS/Manejo de Archivos/FASE1/MIAFASE1_201403785/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Analizador.h"
+
+1470701004 /home/juan/Documents/TAREAS/Manejo de Archivos/FASE1/MIAFASE1_201403785/Analizador.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
